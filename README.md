@@ -1,9 +1,10 @@
-rallytest
+Demo app for Agile Central
 =========================
 
 ## Overview
 
 This app is intended as a demonstration for new users to the Rally App Builder.
+
 
 ## License
 

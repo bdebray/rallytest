@@ -3,6 +3,7 @@ rallytest
 
 ## Overview
 
+This app is intended as a demonstration for new users to the Rally App Builder.
 
 ## License
 
